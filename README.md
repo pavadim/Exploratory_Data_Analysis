@@ -1,1 +1,1 @@
-# projects
+# ML_course_python
